@@ -1,19 +1,8 @@
 Body Mass Index (BMI)
 Body Mass Index (BMI) is a numerical value calculated from a person's weight and height. It is widely used to categorize individuals into different weight categories and assess potential health risks. The formula for BMI is:
 
-𝐵
-𝑀
-𝐼
-=
-weight (kg)
-height (m)
-2
-BMI= 
-height (m) 
-2
- 
-weight (kg)
-​
+![image](https://github.com/user-attachments/assets/71192484-d5a6-4628-9a67-310d3eda5aa2)
+
  
 BMI Categories:
 Underweight: BMI < 18.5
